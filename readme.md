@@ -40,6 +40,4 @@ The both long command-lines have a same structure, they pipe multiple commands u
 1. [](https://www.youtube.com/) -->
 
 ## Author
-- [Jonas AFUTU][def]
-
-[def]: https://www.linkedin.com/in/jonas-afutu/
+- [Jonas AFUTU](https://www.linkedin.com/in/jonas-afutu/)
