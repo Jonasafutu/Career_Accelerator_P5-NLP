@@ -83,3 +83,6 @@ SXJSNLLH     -.532
 N5VFOCZE      0
 QKGFQCG8      .912
 ```
+
+## Author
+- [Jonas AFUTU](https://www.linkedin.com/in/jonas-afutu/)
